@@ -9,7 +9,8 @@ import json
 import datetime
 #import time
 
-app_id = "app_id"
+#Replace below code with your application id & your secret Key provided by Facebook at developer.facebook.com
+app_id = "app_id"   
 app_secret_key = "app_secret_key"# DO NOT SHARE WITH ANYONE!
 access_token = app_id + "|" + app_secret_key
 
